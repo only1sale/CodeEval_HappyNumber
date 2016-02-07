@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1454846171 source:/home/aminja/Documents/CPP/CodeEval/Hard_LVL/HappyNumber/main.cpp
-	<iostream>
-	<fstream>
-	<string>
-	<set>
-
